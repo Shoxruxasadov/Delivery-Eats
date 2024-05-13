@@ -1,0 +1,150 @@
+{
+  "eats": [
+    {
+      "name": "Tea",
+      "price": "0.99",
+      "image": "https://images.everydayhealth.com/images/drinking-tea-tied-to-lower-risk-t2d-1440x810.jpg",
+      "category": "drinks",
+      "id": 1
+    },
+    {
+      "name": "Espresso",
+      "price": "1.99",
+      "image": "https://getproofed.com.au/wp-content/uploads/2019/10/coffee-3107235_640.jpg",
+      "category": "drinks",
+      "id": 2
+    },
+    {
+      "name": "Americano",
+      "price": "2.99",
+      "image": "https://cdn.pixabay.com/photo/2015/07/13/14/58/coffee-843278_1280.jpg",
+      "category": "drinks",
+      "id": 3
+    },
+    {
+      "name": "Burger simple",
+      "price": "0.99",
+      "image": "https://www.tastingtable.com/img/gallery/what-makes-restaurant-burgers-taste-different-from-homemade-burgers-upgrade/intro-1662064407.webp",
+      "category": "burgers",
+      "id": 4
+    },
+    {
+      "name": "Black Burger",
+      "price": "2.9",
+      "image": "https://img.freepik.com/premium-photo/black-burger-with-fries-and-ketchup-on-a-table-in-a-restaurant_73107-2292.jpg?w=1060",
+      "category": "burgers",
+      "id": 5
+    },
+    {
+      "name": "Burger King",
+      "price": "4.99",
+      "image": "https://www.nrn.com/sites/nrn.com/files/styles/article_featured_retina/public/Burker-King-New-Impossible-King-Burger.jpg?itok=V1_eMPY9",
+      "category": "burgers",
+      "id": 6
+    },
+    {
+      "name": "Pizza Cheese",
+      "price": "5.99",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+      "category": "pizza",
+      "id": 7
+    },
+    {
+      "name": "Pizza Dought",
+      "price": "9.99",
+      "image": "https://www.allrecipes.com/thmb/0xH8n2D4cC97t7mcC7eT2SDZ0aE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6776_Pizza-Dough_ddmfs_2x1_1725-fdaa76496da045b3bdaadcec6d4c5398.jpg",
+      "category": "pizza",
+      "id": 8
+    },
+    {
+      "name": "Pizza Paradiso",
+      "price": "7.99",
+      "image": "https://images.squarespace-cdn.com/content/v1/555ea042e4b003d47ad31b75/1654818190081-66JQ4TFXT5D5KSUPAGP4/20160916S1_Personal_Chef_Kristi_Brown_Plating_203.jpg?format=2500w",
+      "category": "pizza",
+      "id": 9
+    },
+    {
+      "name": "Chocolate Polyvore",
+      "price": "2.99",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/181127110351-18-50-sweets-travel-tiramisu.jpg?q=w_2391,h_1345,x_0,y_0,c_fill/h_618",
+      "category": "sweets",
+      "id": 10
+    },
+    {
+      "name": "Chocolate Mousse",
+      "price": "5.99",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/181127110200-16-50-sweets-travel-chocolate-mousse.jpg?q=w_2512,h_1413,x_0,y_0,c_fill/w_1280",
+      "category": "sweets",
+      "id": 11
+    },
+    {
+      "name": "Black Forest Cake",
+      "price": "9.99",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/181127110638-21-50-sweets-travel-black-forest-cake.jpg?q=w_5021,h_2825,x_0,y_0,c_fill/w_1280",
+      "category": "sweets",
+      "id": 12
+    },
+    {
+      "name": "Pizza Peperoni",
+      "price": "6",
+      "image": "https://cdn.tasteatlas.com/images/dishes/b05a0af72ad845f3a6abe16143d7853a.jpg?m=facebook",
+      "category": "pizza",
+      "id": 13
+    },
+    {
+      "name": "dfghj",
+      "price": "7",
+      "image": "dfghnjymku",
+      "category": "pizza",
+      "id": 14
+    }
+  ],
+  "orders": [],
+  "users": [
+    {
+      "image": "https://static1.tgstat.ru/channels/_0/34/3454a48d75e3234e82fc647382cf37d6.jpg",
+      "email": "admin@dev.uz",
+      "password": "Admin000",
+      "firstName": "Admin ",
+      "lastName": "",
+      "role": "ADMIN",
+      "id": 1
+    },
+    {
+      "image": "https://media.licdn.com/dms/image/D4E03AQGlU-X85FW9Qg/profile-displayphoto-shrink_100_100/0/1684404053411?e=1694044800&v=beta&t=Cvual4s7SLnUmuzdr5Pa4rl4DCrQQzaMK1XJzNfwF24",
+      "email": "shoxruxasadov05@mail.ru",
+      "password": "Sh4157833",
+      "firstName": "Shoxrux",
+      "lastName": "Asadov",
+      "role": "ADMIN",
+      "id": 2
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqKrH_K2ikOzB0lC9oThNYdNyapp1xfFGAQOX6ooG4vD_ZXh9",
+      "email": "eshmatboy@gmail.com",
+      "password": "eshmatboy",
+      "firstName": "Eshmat",
+      "lastName": "Toshmatov",
+      "role": "USER",
+      "id": 3
+    },
+    {
+      "firstName": "Asadbek",
+      "lastName": "Asadov",
+      "email": "asadbekasadov2010@gmail.com",
+      "password": "assa2010",
+      "image": "https://marketplace.canva.com/EAFewoMXU-4/1/0/1600w/canva-purple-pink-gradient-man-3d-avatar-0o0qE2T_kr8.jpg",
+      "role": "USER",
+      "id": 4
+    },
+    {
+      "firstName": "Shoxrux",
+      "lastName": "Asadov",
+      "email": "shoxaasadov2005@gmail.com",
+      "password": "Sh4157833",
+      "image": "",
+      "role": "USER",
+      "id": 5
+    }
+  ]
+}
